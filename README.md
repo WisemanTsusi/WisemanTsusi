@@ -36,22 +36,6 @@ I build **web, mobile and enterprise software** with a focus on scalable SaaS pl
 
 * Software engineering, product development and technology solutions.
 
-### AppointmentCalendar
-
-* Application development project.
-
-### Phonebook
-
-* Full-stack application project.
-
-### Printing
-
-* Software/application development project.
-
-### C / Visual Studio Graphics & Gaming
-
-* C/C++ graphics and application development.
-
 ---
 
 ## 🛠️ Tech Stack
