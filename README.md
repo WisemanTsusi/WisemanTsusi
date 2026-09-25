@@ -148,21 +148,4 @@ I am particularly interested in the intersection of:
 
 **Software Engineering → Architecture → Cloud → AI → Automation → Business Platforms**
 
----
 
-## 🤝 Let's Connect
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/wiseman-tsusi/
-
-🌐 **Website**
-https://moeletsitsusi.com
-
-💻 **GitHub**
-https://github.com/WisemanTsusi
-
-🚀 **Genius Geeks**
-https://geniusgeeks.co.za
-
-🧠 **Ceribro™**
-https://ceribro.io
