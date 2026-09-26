@@ -9,7 +9,7 @@ I build **web, mobile and enterprise software** with a focus on scalable SaaS pl
 ## 🧩 What I Build
 
 ### Enterprise & SaaS Platforms
-### [Enterprise & SaaS Platforms](<./enterprise-saas-reference/README.md>)
+### [Enterprise & SaaS Platforms](</enterprise-saas-reference/README.md>)
 
 * Multi-tenant systems, organization/workspace hierarchies, RBAC/ABAC, billing, auditability and platform administration.
 
