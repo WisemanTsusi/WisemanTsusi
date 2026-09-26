@@ -9,7 +9,6 @@ I build **web, mobile and enterprise software** with a focus on scalable SaaS pl
 ## 🧩 What I Build
 
 ### Enterprise & SaaS Platforms
-### [Enterprise & SaaS Platforms](<../WisemanTsusi/enterprise-saas-reference>)
 
 * Multi-tenant systems, organization/workspace hierarchies, RBAC/ABAC, billing, auditability and platform administration.
 
