@@ -1,4 +1,4 @@
-# 👋 Moeletsi "Wiseman" Tsusi
+# Moeletsi "Wiseman" Tsusi 👋
 
 ### Full-Stack Software Engineer · SaaS Architect · AI & Cloud Engineering
 
